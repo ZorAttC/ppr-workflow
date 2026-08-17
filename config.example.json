@@ -1,0 +1,9 @@
+{
+  "output_root": "papers",
+  "figures_dirname": "figures",
+  "audit": {
+    "expansion_ratio": 1.6,
+    "coverage_threshold": 0.85,
+    "section_threshold": 0.60
+  }
+}
